@@ -8,7 +8,7 @@
 
 待补充。
 
-## 和模型—上下文系统理论的关系
+## 和Model-Context System Theory的关系
 
 待补充。
 
